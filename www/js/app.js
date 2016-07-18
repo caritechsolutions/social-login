@@ -1,6 +1,6 @@
 
 /* Add your OneAll Subdomain Here */
-var oneall_subdomain = 'thesunpass.com';
+var oneall_subdomain = 'thesunpass';
 
 /* Leave As Is */
 var oneall_connection_token = '';
